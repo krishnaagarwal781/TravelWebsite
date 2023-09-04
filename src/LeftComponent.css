@@ -1,0 +1,4 @@
+span:hover {
+    background-color: #1ec38b;
+    cursor: pointer; /* Change the cursor on hover to indicate interactivity */
+}

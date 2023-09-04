@@ -1,0 +1,17 @@
+.containerRight {
+    width: 25%; 
+    background-color: rgb(255, 255, 255);
+    border-radius:10px;
+  }
+  .profile{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 25px;
+    gap: 10px;
+    margin-bottom:30px;
+    /* margin-right: 10px; */
+  }
+  .schedule{
+    margin-top: 50px;
+  }
